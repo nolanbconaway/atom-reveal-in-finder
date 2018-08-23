@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle reveal-in-finder",
-        "command": "reveal-in-finder:toggle"
+        "label": "Reveal in Finder",
+        "command": "reveal-in-finder:reveal"
       }
     ]
   },
@@ -15,8 +15,8 @@
           "label": "reveal-in-finder",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "reveal-in-finder:toggle"
+              "label": "Reveal",
+              "command": "reveal-in-finder:reveal"
             }
           ]
         }

@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "reveal-in-finder:toggle"
+    "alt-cmd-r": "reveal-in-finder:reveal"
   }
 }
