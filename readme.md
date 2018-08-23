@@ -18,5 +18,6 @@ One day I'll put this on the marketplace but in the meantime:
 ```sh
 git clone https://github.com/nolanbconaway/atom-reveal-in-finder.git
 cd atom-reveal-in-finder
-apm install .
+apm install
+apm link .
 ```
