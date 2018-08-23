@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle reveal-in-finder",
+        "command": "reveal-in-finder:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "reveal-in-finder",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "reveal-in-finder:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
