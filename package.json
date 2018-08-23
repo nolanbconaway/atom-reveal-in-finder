@@ -2,17 +2,15 @@
   "name": "reveal-in-finder",
   "main": "./lib/reveal-in-finder",
   "version": "0.0.0",
-  "description": "A short description of your package",
-  "keywords": [
-  ],
+  "description": "Reveal a file in finder.",
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "reveal-in-finder:reveal"
   },
-  "repository": "https://github.com/atom/reveal-in-finder",
+  "repository": "https://github.com/nolanbconaway/atom-reveal-in-finder",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
