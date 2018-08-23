@@ -16,6 +16,7 @@ I have not done any form of thorough testing, I only know it works on my machine
 One day I'll put this on the marketplace but in the meantime:
 
 ```sh
+cd ~/.atom/packages
 git clone https://github.com/nolanbconaway/atom-reveal-in-finder.git
 cd atom-reveal-in-finder
 apm install
