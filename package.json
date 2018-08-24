@@ -1,7 +1,7 @@
 {
   "name": "reveal-in-finder",
   "main": "./lib/reveal-in-finder",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Quick keymap to reveal a file in finder.",
   "keywords": [],
   "activationCommands": {
